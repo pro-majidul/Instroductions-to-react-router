@@ -1,8 +1,10 @@
 
 import './App.css'
+import AxiosComponent from './Axios/AxiosComponent'
 // import Display from './Components/Display/Display'
 import Navbar from './Components/Navbar/Navbar'
 import PriceOptions from './Components/PriceOptions/PriceOptions'
+import Recharts from './Components/Recharts/Recharts'
 
 function App() {
 
@@ -14,6 +16,8 @@ function App() {
       <Navbar></Navbar>
       {/* <Display></Display> */}
       <PriceOptions></PriceOptions>
+      <Recharts></Recharts>
+      <AxiosComponent></AxiosComponent>
     </div>
   )
 }

@@ -14,7 +14,7 @@ const PriceOptions = () => {
                     "Group fitness classes",
                     "Free locker use",
                     "Complimentary fitness assessment",
-                    "Monthly health tips newsletter"
+                   
                 ]
             },
             {
@@ -43,19 +43,7 @@ const PriceOptions = () => {
                     "Free fitness workshops"
                 ]
             },
-            {
-                "id": "4",
-                "name": "Family Membership",
-                "price": 99.99,
-                "features": [
-                    "All Premium Membership features",
-                    "Access for 2 adults and 2 children",
-                    "Family fitness events",
-                    "Reduced rates for additional family members",
-                    "Family health and fitness assessments",
-                    "Kids' activity programs"
-                ]
-            }
+           
         ]
     
 
